@@ -2,7 +2,7 @@
  Bachelor CSE Student 2020-2024.
 - 👀 I’m interested in ...Computer Science
 - 🌱 I’m currently learning ...DSA, Artificial Intelligence, Machine Learning, Deep Learning and Ethical Hacking.
-- 💞️ I’m looking to collaborate on ... Open Source 
+- 💞️ I’m looking to collaborate on ... Open Sources
 - 📫 How to reach me ...Instagram- @rahul.hind
 
 <!---
